@@ -1,6 +1,6 @@
 import React from 'react'
 // import dynamic from 'next/dynamic' // TODO
-import Image from 'next/image'
+import Image from 'next/legacy/image'
 import { useTweet } from './tweet/tweet'
 
 export const Img = ({ width, height, src, ...p }) => {
