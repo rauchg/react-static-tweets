@@ -1,5 +1,5 @@
 {
-  "name": "react-static-tweets",
+  "name": "react-static-tweets-13",
   "version": "0.8.0",
   "description": "Extremely fast static renderer for tweets.",
   "repository": "transitive-bullshit/react-static-tweets",
@@ -24,13 +24,13 @@
     "@types/react": "^17.0.3",
     "date-fns": "^2.17.0",
     "microbundle": "^0.14.2",
-    "next": "^12.1.0",
+    "next": "^13.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "peerDependencies": {
     "date-fns": ">=2",
-    "next": ">=11",
+    "next": ">=13",
     "react": ">=16",
     "react-dom": ">=16"
   }

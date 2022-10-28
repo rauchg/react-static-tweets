@@ -1,5 +1,5 @@
 {
-  "name": "react-static-tweets-13",
+  "name": "react-static-tweets",
   "private": true,
   "description": "Extremely fast static renderer for tweets.",
   "repository": "transitive-bullshit/react-static-tweets",
